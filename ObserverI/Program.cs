@@ -1,0 +1,3 @@
+﻿using ObserverI;
+
+new Start();
