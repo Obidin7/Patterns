@@ -1,0 +1,11 @@
+﻿namespace Multiton;
+
+public class Door : IDoor
+{
+    public Guid Id { get; set; }
+
+    public Door()
+    {
+        Id = Guid.NewGuid();
+    }
+}

@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <FileScopedNamespaces>true</FileScopedNamespaces>
+  </PropertyGroup>
+</Project>
