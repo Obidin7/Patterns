@@ -81,6 +81,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer_MemoryLeak", "Obse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDeclaratory", "ObserverDeclaratory\ObserverDeclaratory.csproj", "{6A7DF013-EA94-41FA-B8F1-67668B191F8B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Flyweight", "Flyweight", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{D3328F93-96B6-493C-B471-01FB79779576}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +199,10 @@ Global
 		{6A7DF013-EA94-41FA-B8F1-67668B191F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A7DF013-EA94-41FA-B8F1-67668B191F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A7DF013-EA94-41FA-B8F1-67668B191F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3328F93-96B6-493C-B471-01FB79779576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3328F93-96B6-493C-B471-01FB79779576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3328F93-96B6-493C-B471-01FB79779576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3328F93-96B6-493C-B471-01FB79779576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -227,6 +235,7 @@ Global
 		{4825CEE3-E6B5-4092-8641-0B67E8C489C3} = {E646056C-4992-4116-8F8C-3B8B935D6DBB}
 		{607B4FFA-E8C9-404A-97A2-1C42C77AE40D} = {E646056C-4992-4116-8F8C-3B8B935D6DBB}
 		{6A7DF013-EA94-41FA-B8F1-67668B191F8B} = {E646056C-4992-4116-8F8C-3B8B935D6DBB}
+		{D3328F93-96B6-493C-B471-01FB79779576} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F161D0B4-A485-490C-AA8F-DEC0BC207DD6}
