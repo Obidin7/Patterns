@@ -97,6 +97,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interpreter", "Interpreter"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{E8BD43EC-D30F-47C9-A8DC-27C2C65E238A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Iterator", "Iterator", "{453F2C54-CC43-4D2F-A83F-54D70842E42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auction", "Auction\Auction.csproj", "{67F90313-B534-424E-AD4C-9E5C74F03FF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,6 +231,10 @@ Global
 		{E8BD43EC-D30F-47C9-A8DC-27C2C65E238A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8BD43EC-D30F-47C9-A8DC-27C2C65E238A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8BD43EC-D30F-47C9-A8DC-27C2C65E238A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F90313-B534-424E-AD4C-9E5C74F03FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F90313-B534-424E-AD4C-9E5C74F03FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F90313-B534-424E-AD4C-9E5C74F03FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F90313-B534-424E-AD4C-9E5C74F03FF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -263,6 +271,7 @@ Global
 		{C7C895E7-0EF5-476E-9A3E-AA859C6E9E58} = {EAB1C26D-3EDE-4D1D-B422-E32E7ADC55A0}
 		{3378A5BA-D144-44CE-A278-59A6DF713D52} = {7F78BB80-7D14-4AAA-920D-0E793CC3E032}
 		{E8BD43EC-D30F-47C9-A8DC-27C2C65E238A} = {E1BA7A26-928D-41F7-B41B-4F0EC3D5D575}
+		{67F90313-B534-424E-AD4C-9E5C74F03FF4} = {453F2C54-CC43-4D2F-A83F-54D70842E42E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F161D0B4-A485-490C-AA8F-DEC0BC207DD6}
